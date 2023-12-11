@@ -135,7 +135,7 @@ export class List extends HTMLElement {
             template += `  <li>
             <div class="visual"><canvas id="canvas${i}"></canvas></div>
             <div class="image">
-                <img src="./../assets/covers/cover${i + 1}.jpg" alt="music" width="30" height="30" />
+                <img src="https://nouhaila1998.github.io/music-player/assets/covers/cover${i + 1}.jpg" alt="music" width="30" height="30" />
             </div>
             <div class="title">
                 <span class="title-text title-text${i}">${track}</span>

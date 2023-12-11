@@ -35,7 +35,7 @@ export class Player extends HTMLElement {
         trackTitle.innerText = manager.tracks[manager.trackID];
         artistName.innerText = manager.tracks[manager.trackID];
 
-        cover.src = "./../assets/covers/" + manager.covers[manager.trackID] + '.jpg';
+        cover.src = "https://nouhaila1998.github.io/music-player/assets/covers/" + manager.covers[manager.trackID] + '.jpg';
 
         progress.style.width = 0;
         thumb.style.left = 0;
@@ -76,7 +76,7 @@ export class Player extends HTMLElement {
             trackTitle.innerText = manager.tracks[manager.trackID];
             artistName.innerText = manager.tracks[manager.trackID];
 
-            cover.src = "./../assets/covers/" + manager.covers[manager.trackID] + '.jpg';
+            cover.src = "https://nouhaila1998.github.io/music-player/assets/covers/" + manager.covers[manager.trackID] + '.jpg';
 
             progress.style.width = 0;
             thumb.style.left = 0;
@@ -201,7 +201,7 @@ export class Player extends HTMLElement {
             trackTitle.innerText = manager.tracks[manager.trackID];
             artistName.innerText = manager.tracks[manager.trackID];
 
-            cover.src = "./../assets/covers/" + manager.covers[manager.trackID] + '.jpg';
+            cover.src = "https://nouhaila1998.github.io/music-player/assets/covers/" + manager.covers[manager.trackID] + '.jpg';
 
             progress.style.width = 0;
             thumb.style.left = 0;
@@ -236,7 +236,7 @@ export class Player extends HTMLElement {
         return `
             ${this.style}
     <div class="player">
-            <img src="./../assets/covers/cover1.jpg" class="cover" alt="cover"/>
+            <img src="https://nouhaila1998.github.io/music-player/assets/covers/cover1.jpg" class="cover" alt="cover"/>
             <h3 class="track-title">Worst Day</h3>
             <span class="artist-name">ILLINUIM</span>
             <div class="timeline-slider">
@@ -255,8 +255,8 @@ export class Player extends HTMLElement {
         </div>
 
         <div class="knbs" >
-            <webaudio-knob id="knob-1" src="./../assets/knobs/horn.png" min="0" max="100"></webaudio-knob>
-            <webaudio-knob id="knob-2" src="./../assets/knobs/Sonatom_bipo.png" min="0" max="100"></webaudio-knob>
+            <webaudio-knob id="knob-1" src="https://nouhaila1998.github.io/music-player/assets/knobs/horn.png" min="0" max="100"></webaudio-knob>
+            <webaudio-knob id="knob-2" src="https://nouhaila1998.github.io/music-player/assets/knobs/Sonatom_bipo.png" min="0" max="100"></webaudio-knob>
          </div>
        
             <div class="controls">

@@ -22,7 +22,7 @@ export default class AudioManager {
             "cover1", "cover2", "cover3", "cover4", "cover5", "cover6", "cover7"
         ];
         this.audioContext = new AudioContext();
-        this.trackSource = "./../assets/tracks/" + this.tracks[this.trackID] + '.mp3';
+        this.trackSource = "https://nouhaila1998.github.io/music-player/assets/tracks/" + this.tracks[this.trackID] + '.mp3';
         this.audio = new Audio(this.trackSource);
         this.src = this.audioContext.createMediaElementSource(this.audio);
         this.panner = this.audioContext.createStereoPanner();
@@ -67,7 +67,7 @@ export default class AudioManager {
     }
 
     switchSource() {
-        this.trackSource = "./../assets/tracks/" + this.tracks[this.trackID] + '.mp3';
+        this.trackSource = "https://nouhaila1998.github.io/music-player/assets/tracks/" + this.tracks[this.trackID] + '.mp3';
         this.audio.src = this.trackSource;
         this.audio.load();
     }

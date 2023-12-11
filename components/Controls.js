@@ -29,7 +29,7 @@ export class Controls extends HTMLElement {
         <div class="col-lg-1 m-4 d-flex justify-content-center align-items-center flex-column">
        
 
-            <webaudio-slider midilearn="true" midicc="1.23" src="./../assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
+            <webaudio-slider midilearn="true" midicc="1.23" src="https://nouhaila1998.github.io/music-player/assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
             basewidth="24" baseheight="128" knobwidth="24" knobheight="24" ditchLength="100"></webaudio-slider>
             <span class="freq">20Hz</span>
         </div>
@@ -37,7 +37,7 @@ export class Controls extends HTMLElement {
         <div class="col-lg-1 m-4 d-flex justify-content-center align-items-center flex-column">
           
 
-            <webaudio-slider midilearn="true" midicc="1.23" src="./../assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
+            <webaudio-slider midilearn="true" midicc="1.23" src="https://nouhaila1998.github.io/music-player/assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
             basewidth="24" baseheight="128" knobwidth="24" knobheight="24" ditchLength="100"></webaudio-slider>
             <span class="freq">100Hz</span>
         </div>
@@ -45,7 +45,7 @@ export class Controls extends HTMLElement {
         <div class="col-lg-1 m-4 d-flex justify-content-center align-items-center flex-column">
            
 
-            <webaudio-slider midilearn="true" midicc="1.23" src="./../assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
+            <webaudio-slider midilearn="true" midicc="1.23" src="https://nouhaila1998.github.io/music-player/assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
             basewidth="24" baseheight="128" knobwidth="24" knobheight="24" ditchLength="100"></webaudio-slider>
             <span class="freq">300Hz</span>
         </div>
@@ -53,21 +53,21 @@ export class Controls extends HTMLElement {
         <div class="col-lg-1 m-4 d-flex justify-content-center align-items-center flex-column">
           
 
-            <webaudio-slider midilearn="true" midicc="1.23" src="./../assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
+            <webaudio-slider midilearn="true" midicc="1.23" src="https://nouhaila1998.github.io/music-player/assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
             basewidth="24" baseheight="128" knobwidth="24" knobheight="24" ditchLength="100"></webaudio-slider>
             <span class="freq">1000Hz</span>
         </div>
         <div class="col-lg-1 m-4 d-flex justify-content-center align-items-center flex-column">
           
 
-          <webaudio-slider midilearn="true" midicc="1.23" src="./../assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
+          <webaudio-slider midilearn="true" midicc="1.23" src="https://nouhaila1998.github.io/music-player/assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
           basewidth="24" baseheight="128" knobwidth="24" knobheight="24" ditchLength="100"></webaudio-slider>
           <span class="freq">5000Hz</span>
       </div>
       <div class="col-lg-1 m-4 d-flex justify-content-center align-items-center flex-column">
           
 
-          <webaudio-slider midilearn="true" midicc="1.23" src="./../assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
+          <webaudio-slider midilearn="true" midicc="1.23" src="https://nouhaila1998.github.io/music-player/assets/knobs/vsliderbody.png" value="0" min="0" max="100" step="1"
           basewidth="24" baseheight="128" knobwidth="24" knobheight="24" ditchLength="100"></webaudio-slider>
           <span class="freq">10000Hz</span>
       </div>
