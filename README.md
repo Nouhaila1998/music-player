@@ -5,7 +5,8 @@ Il est conçu à l'aide de l'API Web Audio et de la bibliothèque Web Audio Cont
 ![UI](https://github.com/Nouhaila1998/music-player/assets/54882041/ab4a795c-fd76-402f-9837-0a573510ebaa)
 ![UI2](https://github.com/Nouhaila1998/music-player/assets/54882041/118212f3-b867-4d9b-b2e0-379e4551ece8)
 
-📺 [Demo Video ](https://drive.google.com/file/d/1uOP6H01uCzwJGAqfczLyQnHXI6T2CYXp/view?usp=sharing) - https://drive.google.com/file/d/1uOP6H01uCzwJGAqfczLyQnHXI6T2CYXp/view?usp=sharing
+📺 [Demo Video ](https://drive.google.com/file/d/1uOP6H01uCzwJGAqfczLyQnHXI6T2CYXp/view?usp=sharing) - https://drive.google.com/file/d/1uOP6H01uCzwJGAqfczLyQnHXI6T2CYXp/view?usp=sharing 
+
 📺 [Demo Live](https://nouhaila1998.github.io/music-player/) - https://nouhaila1998.github.io/music-player
 
 Ce lecteur audio est un composant web qui interconnecte plusieurs autres composants web, offrant ainsi une expérience audio complète. Voici un aperçu des composants principaux :
