@@ -26,7 +26,7 @@ Ce lecteur audio est un composant web qui interconnecte plusieurs autres composa
 
 4. **Composant Playlist - app-list**
    - Permet la sélection entre différentes pistes audio d'une playlist grâce à une interface ergonomique et intuitive.
-   - 
+     
 5. **Composant App - app-component**
    - Le composant app-component est la pièce maîtresse de notre lecteur audio "MusicPlayer". Il controle l'agencement des autres composants et définit la structure globale de l'interface utilisateur.
 ## 🧐 Comment l'utiliser  
