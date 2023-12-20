@@ -40,7 +40,7 @@ Ce lecteur audio est un composant web qui interconnecte plusieurs autres composa
 ### Architecture
 ![Architecture](https://github.com/Nouhaila1998/music-player/assets/54882041/19bda597-2dc0-4835-9c49-f2da6cad4a90)
 - **Assets :** Contient des sous-dossiers pour les différentes images, sons, boutons du lecteur, et la bibliothèque webaudio-controls qui permet le bon fonctionnement des knobs.
-- **Components :** Regroupe les 4 composants (player , equalizer , playlist , visualiser )   de notre lecteur et le composant app qui est le composant qui les lie entre eux.
+- **Components :** Regroupe les 4 composants (player , list , controls , visualiser )   de notre lecteur et le composant app qui est le composant qui les lie entre eux.
 - **Services :** Contient AudioManager qui est une composante centrale de notre lecteur audio "MusicPlayer". Elle prend en charge la gestion des pistes audio, la création de l'interface audio, et d'autres fonctionnalités pour le contrôle du son.
 
 ## Bibliothèques Utilisées
